@@ -1,4 +1,4 @@
-# Zomata-Data-Analysis-Python
+# Zomato-Data-Analysis-Python
 
 Bangalore is the Silicon Valley of India.	Delivery, Dine-out, Pubs, Bars, Drinks, Buffet, Desserts you name it and Bengaluru has it. Bengaluru is best place for foodies. The number of restaurant are increasing day by day. Currently which stands at approximately 12,000 restaurants.  
 This Zomato data aims at analysing demography of the location. Most importantly it will help food entrepreneurs in deciding their theme, menus, cuisine, cost etc for a particular location
